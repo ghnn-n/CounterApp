@@ -1,4 +1,4 @@
-#CounterApp
+# CounterApp
 + (+) 버튼을 누르면 중앙 Label의 숫자가 1씩 증가합니다
 
 - (-) 버튼을 누르면 중앙 Label의 숫자가 1씩 감소합니다
